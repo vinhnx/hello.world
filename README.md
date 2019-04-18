@@ -1,6 +1,6 @@
 Hi! I'm Vinh Nguyen.
 
-Currently I'm work as iOS developer at [2359 Media](http://2359media.com/), living in Ho Chi Minh city.
+Currently I'm working as iOS developer at [2359 Media](http://2359media.com/), living in Ho Chi Minh city.
 
 When not writing [code](https://github.com/vinhnx), you can find me reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), exploring [Github](https://github.com/vinhnx), posting photos at [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx).
 
