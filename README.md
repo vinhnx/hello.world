@@ -17,6 +17,7 @@ My programming interests include: Swift, Objective-C, iOS. Currently learning: J
 More about me:
 
 + [Website](https://vinhnx.github.io)
++ [StackOverflow](https://stackoverflow.com/users/1477298/vinh-nguyen)
 + [StackOverflow CV](https://stackoverflow.com/cv/vinh)
 + [GitHub](https://github.com/vinhnx)
 + [GitHub resume](http://resume.github.io/?vinhnx)
