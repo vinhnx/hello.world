@@ -15,8 +15,12 @@ My [App Store link](http://itunes.com/nguyenvinh), but these apps are no longer 
 My programming interests include: Swift, Objective-C, iOS. Currently learning: JavaScript/NodeJS. I like: Rust, Go. Love: Open-Source softwares, Git, GitHub, Unix and command-line tools.
 
 More about me:
+
 + [Website](https://vinhnx.github.io)
 + [StackOverflow CV](https://stackoverflow.com/cv/vinh)
++ [GitHub](https://github.com/vinhnx)
 + [GitHub resume](http://resume.github.io/?vinhnx)
 + [LinkedIn](https://www.linkedin.com/in/vinhnx)
 + [SpeakerDeck](https://speakerdeck.com/vinhnx/)
++ [Twitter](https://twitter.com/@vinhnx)
++ [Instagram](https://instagram.com/vinhnx)
