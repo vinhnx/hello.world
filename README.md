@@ -12,6 +12,8 @@ In the past, I started learning iOS and then end-up creating two iOS apps, befor
 
 My [App Store link](http://itunes.com/nguyenvinh), but these apps are no longer available, I hope to revive them someday :)
 
+My programming interests include: Swift, Objective-C, iOS. learning: JavaScript/NodeJS. I like: Rust, Go, Open-Source softwares, Git, GitHub, Unix and command-line tools.
+
 More about me:
 + [Website](https://vinhnx.github.io)
 + [StackOverflow CV](https://stackoverflow.com/cv/vinh)
