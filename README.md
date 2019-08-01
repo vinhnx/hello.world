@@ -1,15 +1,18 @@
 Hi! I'm Vinh Nguyen.
 
-Currently I'm working as iOS developer at [2359 Media](http://2359media.com/), living in Ho Chi Minh city.
+I'm working as an iOS developer at [2359](http://2359media.com/), in Ho Chi Minh city.
 
-When not writing [code](https://github.com/vinhnx), you can find me reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), exploring [Github](https://github.com/vinhnx), posting photos at [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx).
+When not writing [code](https://github.com/vinhnx), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [Github](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx).
 
-I love listening to [podcasts](https://vinhnx.github.io/podcasts/)
+I'm an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
-I used to write things with [@getWriteDown](https://twitter.com/getWriteDown), and check weather forecast with [@HumidTheApp](https://twitter.com/HumidTheApp). [App Store link](http://itunes.com/nguyenvinh), but these apps are no longer available.
+In the past, I started learning iOS and then end-up creating two iOS apps, before working fulltime:
++ A markdown text editor with cloud sync [@getWriteDown](https://twitter.com/getWriteDown)
++ A weather forecast app with text-to-speech (think Weather app for busy people) [@HumidTheApp](https://twitter.com/HumidTheApp). 
+
+My [App Store link](http://itunes.com/nguyenvinh), but these apps are no longer available, I hope to revive them someday :)
 
 More about me:
-
 + [Website](https://vinhnx.github.io)
 + [StackOverflow CV](https://stackoverflow.com/cv/vinh)
 + [GitHub resume](http://resume.github.io/?vinhnx)
