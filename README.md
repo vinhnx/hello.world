@@ -6,7 +6,7 @@ When not writing [code](https://github.com/vinhnx?tab=repositories), I love read
 
 I'm an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
-In the past, I started learning iOS and then end-up creating two iOS apps, before working fulltime:
+In the past, I started learning iOS and then end-up creating two iOS independent apps, before starting working fulltime:
 + A markdown text editor with cloud sync [@getWriteDown](https://twitter.com/getWriteDown)
 + A weather forecast app with text-to-speech (think Weather app for busy people) [@HumidTheApp](https://twitter.com/HumidTheApp). 
 
