@@ -1,6 +1,4 @@
-Hi! I'm Vinh Nguyen.
-
-Currently, I work at [2359](http://2359media.com/), in Ho Chi Minh city as an iOS software developer.
+Hi! I'm Vinh Nguyen, iOS software developer.
 
 When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx?tab=stars). On my spare time, I occasionally post photos on [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx).
 
