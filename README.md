@@ -5,7 +5,7 @@ When not writing [code](https://github.com/vinhnx?tab=repositories), I love read
 I'm an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
 I have been making a app from my spare time, while learning SwiftUI and Apple latest technologies, like Universal app, Widget, watchOS, iPadOS:
-+ Clendar - minimal calendar app -- [AppStore](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041) | [Website](https://vinhnx.github.io/clendar-site)
++ Clendar - minimal calendar app -- [AppStore](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041), [Website](https://vinhnx.github.io/clendar-site)
 
 In the past, I started learning iOS and then end-up creating two iOS independent apps, before starting working fulltime:
 + A markdown text editor with cloud sync [@getWriteDown](https://twitter.com/getWriteDown) -- [website](http://vinhnx.github.io/writedown-site/).
