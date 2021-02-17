@@ -2,7 +2,7 @@ Hi! I'm Vinh Nguyen, iOS software developer.
 
 When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx), I'm also an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
-I have been making a app from my spare time, while learning SwiftUI and Apple latest technologies, like Universal app, Widget, watchOS, iPadOS:
+I have been making a app from my spare time, while learning Apple technologies, like SwiftUI:
 + Clendar - minimal calendar app -- [AppStore](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041), [Website](https://vinhnx.github.io/clendar-site)
 
 In the past, I started learning iOS and then end-up creating two iOS independent apps, before starting working fulltime:
