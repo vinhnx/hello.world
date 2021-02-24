@@ -1,4 +1,4 @@
-Hi! I'm Vinh Nguyen, iOS software engineer.
+Hi! I'm Vinh Nguyen, iOS software engineer currently living at Ho Chi Minh city.
 
 When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx), I'm also an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
